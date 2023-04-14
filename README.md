@@ -1,6 +1,6 @@
 # Cheat-Sheet-Collection
 
-Collection of Cheat-Sheets often used for my own reference
+> Collection of Cheat-Sheets often used for my own reference
 
 
 
@@ -23,4 +23,26 @@ Collection of Cheat-Sheets often used for my own reference
 
 ### Git 
 
-[Git](https://www.cheat-sheet.cn/post/git-cheat-sheet/)
+[Git Cheat Sheet](https://www.cheat-sheet.cn/post/git-cheat-sheet/)
+
+[图解GIT](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+
+### Makefile
+
+[跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/rules.html)
+
+---
+
+below is some detailed Tutorial
+
+### Mermaid
+
+[Mermaid Tutorial](https://mermaid.js.org/syntax/flowchart.html#subgraphs)
+
+### System Verilog
+
+[SV Documentation](https://verificationguide.com/systemverilog/systemverilog-functions/#Automatic_Function)
+
+### Spinal
+
+[Spinal Tutorial](https://spinalhdl.github.io/SpinalDoc-RTD/master/index.html)
