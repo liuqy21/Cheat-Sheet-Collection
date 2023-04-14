@@ -13,3 +13,14 @@ Collection of Cheat-Sheets often used for my own reference
 [Verible Lint Rules](https://chipsalliance.github.io/verible/verilog_lint.html)
 
 [Verible format Flags](https://chipsalliance.github.io/verible/verilog_format.html)
+
+### Regular Expression
+[regex cheat sheet](https://www.cheat-sheet.cn/post/regex-cheat-sheet/#%E5%8C%B9%E9%85%8D%E5%AD%97%E7%AC%A6)
+
+### Linux Shell
+
+[Linux Command Line](https://www.cheat-sheet.cn/post/linux-command-line-cheat-sheet/)
+
+### Git 
+
+[git](https://www.cheat-sheet.cn/post/git-cheat-sheet/)
