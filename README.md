@@ -23,4 +23,4 @@ Collection of Cheat-Sheets often used for my own reference
 
 ### Git 
 
-[git](https://www.cheat-sheet.cn/post/git-cheat-sheet/)
+[Git](https://www.cheat-sheet.cn/post/git-cheat-sheet/)
