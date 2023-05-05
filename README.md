@@ -27,6 +27,10 @@
 
 [图解GIT](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
 
+### Tmux
+
+[tmux cheat sheet](https://tmuxcheatsheet.com/)
+
 ### Makefile
 
 [跟我一起写Makefile](https://seisman.github.io/how-to-write-makefile/rules.html)
